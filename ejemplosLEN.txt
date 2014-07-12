@@ -1,0 +1,27 @@
+clase asdf { 
+
+##Atributos##
+	privado cadena s;
+
+##Constructor##
+	publico asdf(){
+	}
+
+##Metodos##
+	publico entero fsfsa ( real b, entero c) { 
+		entero asdff;
+		entero abc=0,erter=asdf;
+		real x=3,y=2,z=1;
+		mientras(erter>5&&erter<10||abc>=erter) 
+			asdff = 3 +4 ; 
+		para ( sdf = 5 ; dsg >= 6 ; asdf = asf**3 ) {
+ 			asdf = nuevo ANB ( ) ;
+ 			si ( ! asd) 
+				leer ( fdsg ) ; 
+			sino 
+				escribir ( "asdfa"+"sfg" ) ;  
+		}
+	retornar 5;
+	}
+ 
+}
